@@ -19,7 +19,7 @@
 body {
     background: ##edeae4;
     color: #68665a;
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Crimson Text', 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /*line-height: 1.429;*/
     margin: 0;
@@ -177,7 +177,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 }
 
 	/* Banner */
-	#banner h1 {font-size: 51px; line-height: 0;}
+	#banner h1 {font-size: 51px};
 	#banner h1 a:link, #banner h1 a:visited {
         text-align:center;
 		color: #383732;
