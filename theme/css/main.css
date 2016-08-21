@@ -9,7 +9,7 @@
 
 /* Imports */
 @import url("reset.css");
-@import url("pygment.css");
+/*@import url("pygment.css");*/
 @import url("typogrify.css");
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic);
@@ -17,8 +17,8 @@
 /***** Global *****/
 /* Body */
 body {
-    background: #FDF6E3;
-    color: #8A887B;
+    background: ##edeae4;
+    color: #68665a;
     font-size: 16px;
     font-family: 'Crimson Text', 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /*line-height: 1.429;*/
